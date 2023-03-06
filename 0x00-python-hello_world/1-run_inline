@@ -1,2 +1,2 @@
 #!/bin/bash
-Bonny <<< $PYCODE
+python3 <<< $PYCODE
